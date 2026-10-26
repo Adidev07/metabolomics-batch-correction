@@ -1,0 +1,11 @@
+{
+  "project": "Condition-Preserving Metabolomics Batch Correction",
+  "raw_to_clean_rmse": 1.0463829990425848,
+  "corrected_to_clean_rmse": 0.018722435714400975,
+  "naive_centering_to_clean_rmse": 0.05581407398919997,
+  "training_samples": 600,
+  "test_samples": 200,
+  "test_batch_labels_known": true,
+  "test_condition_labels_used_for_correction": false,
+  "scope": "Known-batch synthetic correction; no disease interpretation"
+}
